@@ -1,2 +1,0 @@
-# QR_codechallenge
-A FRONTEND MENTOR PROJECT
